@@ -22,8 +22,7 @@ int adjacentElementsProduct(std::vector<int> inputArray) {
     return sum;
 }
 
-
 //
-//  Created by Muhamed Karajic on January 4, 2017.
+//  Created by Muhamed Karajic on February 3, 2018.
 //  Copyright © 2017 Muhamed Karajic. All rights reserved.
 //

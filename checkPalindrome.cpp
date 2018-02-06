@@ -12,7 +12,6 @@ checkPalindrome(inputString) = false;
 checkPalindrome(inputString) = true.
 */
 
-
 bool checkPalindrome(std::string inputString) {
     int len = inputString.length()-1;
     int half = inputString.length()/2;
@@ -22,9 +21,7 @@ bool checkPalindrome(std::string inputString) {
     return true;
 }
 
-
-
 //
-//  Created by Muhamed Karajic on January 4, 2017.
+//  Created by Muhamed Karajic on February 3, 2018.
 //  Copyright © 2017 Muhamed Karajic. All rights reserved.
 //
