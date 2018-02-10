@@ -4,6 +4,7 @@
 * [separateNumbers](https://github.com/muhamedkarajic/Algorithm/blob/master/separateNumbers.py)
 * [transposeMatrix](https://github.com/muhamedkarajic/Algorithm/blob/master/transposeMatrix.cpp)
 * [primeMultiplication](https://github.com/muhamedkarajic/Algorithm/blob/master/primeMultiplication.cpp)
+
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
@@ -13,6 +14,7 @@
 * [makeArrayConsecutive2](https://github.com/muhamedkarajic/Algorithm/blob/master/makeArrayConsecutive2.cpp)
 * [almostIncreasingSequence](https://github.com/muhamedkarajic/Algorithm/blob/master/almostIncreasingSequence.cpp)
 * [matrixElementsSum](https://github.com/muhamedkarajic/Algorithm/blob/master/matrixElementsSum.cpp)
+
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
