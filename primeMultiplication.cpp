@@ -1,9 +1,4 @@
-﻿//
-//  Created by Muhamed Karajic on December 4, 2017.
-//  Copyright © 2017 Muhamed Karajic. All rights reserved.
-//
-
-/*Napišite program, koji omogućava da unese prirodni number number i u slučaju
+﻿/*Napišite program, koji omogućava da unese prirodni number number i u slučaju
 da number nije prime (number koji je djeljiv samo sa 1 i sa samim sobom)
 potrebno ga je rastaviti na proste faktore. Svaki složeni number se može rastaviti
 na proste faktore (numbereve) koji množenjem daju taj number.
@@ -74,3 +69,8 @@ int main() {
 I would like to thank here Selimović Adela for helping me understand the 
 prime number logic behind this code, which was her optimization and math logic.
 */
+
+//
+//  Created by Muhamed Karajic on December 4, 2017.
+//  Copyright © 2017 Muhamed Karajic. All rights reserved.
+//

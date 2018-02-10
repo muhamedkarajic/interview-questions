@@ -1,10 +1,4 @@
-﻿//
-//  Created by Muhamed Karajic on January 17, 2018.
-//  Copyright © 2018 Muhamed Karajic. All rights reserved.
-//
-
-
-/*
+﻿/*
 Napisati program koji će omogućiti:
 •	Unos 2D niza od 10x10 elemanata vodeći računa da su svi elementi dvocifreni (ukoliko unos nekog elementa ne zadovoljava uslov, ponavljati unos tog elementa dok se ne zadovolji uslov) – Koristiti funkciju unos
 •	Izvršiti transpoziciju niza tako što će se zamjeniti redovi i kolone – Koristiti funkciju transpose, a zatim na osnovu izmijenjenog 2D niza:
@@ -61,3 +55,8 @@ int main()
 	system("PAUSE");
 	return 0;
 }
+
+//
+//  Created by Muhamed Karajic on January 17, 2018.
+//  Copyright © 2018 Muhamed Karajic. All rights reserved.
+//

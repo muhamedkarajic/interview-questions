@@ -52,5 +52,5 @@ int makeArrayConsecutive2(std::vector<int> statues) {
 
 //
 //  Created by Muhamed Karajic on February 6, 2018.
-//  Copyright © 2017 Muhamed Karajic. All rights reserved.
+//  Copyright © 2018 Muhamed Karajic. All rights reserved.
 //
