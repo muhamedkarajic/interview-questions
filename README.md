@@ -11,6 +11,8 @@
 * [adjacentElementsProduct](https://github.com/muhamedkarajic/Algorithm/blob/master/adjacentElementsProduct.cpp)
 * [shapeArea](https://github.com/muhamedkarajic/Algorithm/blob/master/shapeArea.cpp)
 * [makeArrayConsecutive2](https://github.com/muhamedkarajic/Algorithm/blob/master/makeArrayConsecutive2.cpp)
+* [almostIncreasingSequence](https://github.com/muhamedkarajic/Algorithm/blob/master/almostIncreasingSequence.cpp)
+* [matrixElementsSum](https://github.com/muhamedkarajic/Algorithm/blob/master/matrixElementsSum.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
