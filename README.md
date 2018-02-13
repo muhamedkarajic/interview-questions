@@ -14,6 +14,7 @@
 * [almostIncreasingSequence](https://github.com/muhamedkarajic/Algorithm/blob/master/almostIncreasingSequence.cpp)
 * [matrixElementsSum](https://github.com/muhamedkarajic/Algorithm/blob/master/matrixElementsSum.cpp)
 * [allLongestStrings](https://github.com/muhamedkarajic/Algorithm/blob/master/allLongestStrings.cpp)
+* [commonCharacterCount](https://github.com/muhamedkarajic/Algorithm/blob/master/commonCharacterCount.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
