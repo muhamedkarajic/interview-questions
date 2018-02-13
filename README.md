@@ -5,6 +5,7 @@
 * [transposeMatrix](https://github.com/muhamedkarajic/Algorithm/blob/master/transposeMatrix.cpp)
 * [primeMultiplication](https://github.com/muhamedkarajic/Algorithm/blob/master/primeMultiplication.cpp)
 * [isPalindrom](https://github.com/muhamedkarajic/Algorithm/blob/master/isPalindrom.cpp)
+* [bubbleSort](https://github.com/muhamedkarajic/Algorithm/blob/master/bubbleSort.cpp)
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
