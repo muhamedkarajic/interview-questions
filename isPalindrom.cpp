@@ -6,7 +6,7 @@ Write a function that checks if a given word is a palindrome. Character case sho
 For example:
 
 isPalindrome("Deleveled") should return true as character case should be ignored, 
-Resulting in "deleveled", which is a palindrome since it reads the same backward and forward.
+resulting in "deleveled", which is a palindrome since it reads the same backward and forward.
 */
 
 #include <string>
