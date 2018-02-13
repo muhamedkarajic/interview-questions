@@ -13,6 +13,7 @@
 * [makeArrayConsecutive2](https://github.com/muhamedkarajic/Algorithm/blob/master/makeArrayConsecutive2.cpp)
 * [almostIncreasingSequence](https://github.com/muhamedkarajic/Algorithm/blob/master/almostIncreasingSequence.cpp)
 * [matrixElementsSum](https://github.com/muhamedkarajic/Algorithm/blob/master/matrixElementsSum.cpp)
+* [allLongestStrings](https://github.com/muhamedkarajic/Algorithm/blob/master/allLongestStrings.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
