@@ -12,10 +12,9 @@ It can be practical if the input is usually in sorted order but may occasionally
 
 std::vector<int> sortByHeight(std::vector<int> a) {
     bool sort = false;
-    int temp;
-    int len = a.size()-1;
+    int temp, len = a.size()-1;
+
     while(sort != true)
-        
     {
         sort = true;
         for(int i=0; i<len; i++)       
