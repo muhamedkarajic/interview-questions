@@ -7,7 +7,6 @@ For inputArray = ["aba", "aa", "ad", "vcd", "aba"], the output should be
 allLongestStrings(inputArray) = ["aba", "vcd", "aba"].
 */
 
-
 std::vector<std::string> allLongestStrings(std::vector<std::string> inputArray) {
     int longestLength = inputArray[0].length();
     
