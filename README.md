@@ -19,6 +19,7 @@
 * [commonCharacterCount](https://github.com/muhamedkarajic/Algorithm/blob/master/commonCharacterCount.cpp)
 * [isLucky](https://github.com/muhamedkarajic/Algorithm/blob/master/isLucky.cpp)
 * [sortByHeight](https://github.com/muhamedkarajic/Algorithm/blob/master/sortByHeight.cpp)
+* [reverseParentheses](https://github.com/muhamedkarajic/Algorithm/blob/master/reverseParentheses.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
