@@ -3,7 +3,6 @@ Finds the most right brackets and the most inner part of brackets in a string an
 This function is the result of another algorithm, but then I was not knowing about the string methods that the language got.
 */
 
-
 void bracketsPositions(string &s)
 {
 
