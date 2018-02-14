@@ -6,6 +6,7 @@
 * [primeMultiplication](https://github.com/muhamedkarajic/Algorithm/blob/master/primeMultiplication.cpp)
 * [isPalindrom](https://github.com/muhamedkarajic/Algorithm/blob/master/isPalindrom.cpp)
 * [bubbleSort](https://github.com/muhamedkarajic/Algorithm/blob/master/bubbleSort.cpp)
+* [bracketsPositions](https://github.com/muhamedkarajic/Algorithm/blob/master/bracketsPositions.cpp)
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
@@ -21,7 +22,6 @@
 * [sortByHeight](https://github.com/muhamedkarajic/Algorithm/blob/master/sortByHeight.cpp)
 * [reverseParentheses](https://github.com/muhamedkarajic/Algorithm/blob/master/reverseParentheses.cpp)
 * [alternatingSums](https://github.com/muhamedkarajic/Algorithm/blob/master/alternatingSums.cpp)
-* [bracketsPositions](https://github.com/muhamedkarajic/Algorithm/blob/master/bracketsPositions.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
