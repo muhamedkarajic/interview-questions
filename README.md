@@ -22,6 +22,7 @@
 * [sortByHeight](https://github.com/muhamedkarajic/Algorithm/blob/master/sortByHeight.cpp)
 * [reverseParentheses](https://github.com/muhamedkarajic/Algorithm/blob/master/reverseParentheses.cpp)
 * [alternatingSums](https://github.com/muhamedkarajic/Algorithm/blob/master/alternatingSums.cpp)
+* [addBorder](https://github.com/muhamedkarajic/Algorithm/blob/master/addBorder.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
