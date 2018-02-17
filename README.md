@@ -25,6 +25,7 @@
 * [addBorder](https://github.com/muhamedkarajic/Algorithm/blob/master/addBorder.cpp)
 * [areSimilar](https://github.com/muhamedkarajic/Algorithm/blob/master/areSimilar.cpp)
 * [arrayChange](https://github.com/muhamedkarajic/Algorithm/blob/master/arrayChange.cpp)
+* [palindromeRearranging](https://github.com/muhamedkarajic/Algorithm/blob/master/palindromeRearranging.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
