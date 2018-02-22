@@ -9,6 +9,7 @@
 * [bracketsPositions](https://github.com/muhamedkarajic/Algorithm/blob/master/bracketsPositions.cpp)
 * [fromBinaryToDecimal](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimal.cpp)
 * [greatestCommonDivisor](https://github.com/muhamedkarajic/Algorithm/blob/master/greatestCommonDivisor.cpp)
+* [wordCounter](https://github.com/muhamedkarajic/Algorithm/blob/master/wordCounter.cpp)
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
