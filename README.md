@@ -7,6 +7,8 @@
 * [isPalindrom](https://github.com/muhamedkarajic/Algorithm/blob/master/isPalindrom.cpp)
 * [bubbleSort](https://github.com/muhamedkarajic/Algorithm/blob/master/bubbleSort.cpp)
 * [bracketsPositions](https://github.com/muhamedkarajic/Algorithm/blob/master/bracketsPositions.cpp)
+* [fromBinaryToDecimal](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimal.cpp)
+* [fromBinaryToDecimal](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimal.cpp)
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
