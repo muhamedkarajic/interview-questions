@@ -8,6 +8,7 @@
 * [bubbleSort](https://github.com/muhamedkarajic/Algorithm/blob/master/bubbleSort.cpp)
 * [bracketsPositions](https://github.com/muhamedkarajic/Algorithm/blob/master/bracketsPositions.cpp)
 * [fromBinaryToDecimal](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimal.cpp)
+* [fromBinaryToDecimalRecursion](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimalRecursion.cpp)
 * [greatestCommonDivisor](https://github.com/muhamedkarajic/Algorithm/blob/master/greatestCommonDivisor.cpp)
 * [wordCounter](https://github.com/muhamedkarajic/Algorithm/blob/master/wordCounter.cpp)
 ### Code Fights:
