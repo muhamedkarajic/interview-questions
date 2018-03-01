@@ -30,9 +30,11 @@ bool isIPv4Address(std::string inputString) {
 
     for(int i = 0; i<inputString.length(); i++)
     {
+        //check the beginning of each number if it's not a number or if the beginning is starting with a bigger number then 2 return false
         if(counter == 0 && ((inputString[i] < '0' || inputString[i] > '9') || (number > 2)))
             return false;
         
+        //if the char is a number transform it to int
         if(inputString[i] >= '0' && inputString[i] <='9' && counter<3)
         {
             number*=10;
@@ -40,20 +42,22 @@ bool isIPv4Address(std::string inputString) {
             counter++;
         }
         
+        //check if it's an dot, check the number size, check the number of dots, and set number and the counter to zero.
         else if(inputString[i] == '.')
         {
             if(number > 255)
                 return false;
-
             else if(++dots > 3)
                 return false;
             else
                 number = counter = 0;
         }
+        //if there is an character, or symbol or anything else return false
         else
             return false;
     }
 
+    //check once more the format of the string and the last number size
     if(dots == 3 && number < 256)
         return true;
     
