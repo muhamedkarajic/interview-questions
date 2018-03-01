@@ -30,6 +30,7 @@
 * [arrayChange](https://github.com/muhamedkarajic/Algorithm/blob/master/arrayChange.cpp)
 * [palindromeRearranging](https://github.com/muhamedkarajic/Algorithm/blob/master/palindromeRearranging.cpp)
 * [areEquallyStrong](https://github.com/muhamedkarajic/Algorithm/blob/master/areEquallyStrong.cpp)
+* [arrayMaximalAdjacentDifference](https://github.com/muhamedkarajic/Algorithm/blob/master/arrayMaximalAdjacentDifference.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
