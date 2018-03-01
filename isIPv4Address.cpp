@@ -25,9 +25,8 @@ There is no first number.
 */
 
 bool isIPv4Address(std::string inputString) {
-    int dots = 0;
-    int number = 0;
-    int counter = 0;
+    int dots, number, counter;
+    dots = number = counter = 0;
 
     for(int i = 0; i<inputString.length(); i++)
     {
