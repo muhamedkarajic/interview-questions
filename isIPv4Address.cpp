@@ -43,7 +43,7 @@ bool isIPv4Address(std::string inputString) {
         }
         
         //check if it's an dot, check the number size, check the number of dots, and set number and the counter to zero.
-        else if(inputString[i] == '.')
+        else if(inputString[i] == '.' && counter > 0)
         {
             if(number > 255)
                 return false;
