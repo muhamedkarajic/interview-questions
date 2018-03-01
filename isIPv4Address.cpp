@@ -43,7 +43,6 @@ bool isIPv4Address(std::string inputString) {
         
         else if(inputString[i] == '.')
         {
-            
             if(number > 255)
                 return false;
 
@@ -51,7 +50,6 @@ bool isIPv4Address(std::string inputString) {
                 return false;
             else
                 number = counter = 0;
-
         }
         else
             return false;
