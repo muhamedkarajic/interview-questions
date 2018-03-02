@@ -17,7 +17,7 @@ avoidObstacles(inputArray) = 4.
 avoidObstacles(inputArray) = 7.
 */
 
-int maxNumber(const std::vector<int> inputArray)
+int maxNumber(const std::vector<int> &inputArray)
 {
 	int max = 0;
 	const int len = inputArray.size();
@@ -29,7 +29,7 @@ int maxNumber(const std::vector<int> inputArray)
 	return max;
 }
 
-bool crashReport(const std::vector<int> inputArray, const int base, const int max)
+bool crashReport(const std::vector<int> &inputArray, const int &base, const int &max)
 {
 	for (int i = 0; i <= max; i += base)
 		for (int j = 0; j<inputArray.size(); j++)
@@ -39,7 +39,7 @@ bool crashReport(const std::vector<int> inputArray, const int base, const int ma
 	return true;
 }
 
-int avoidObstacles(std::vector<int> inputArray) {
+int avoidObstacles(const std::vector<int> &inputArray) {
 
 	const int len = inputArray.size() - 1;
 	const int max = maxNumber(inputArray);
