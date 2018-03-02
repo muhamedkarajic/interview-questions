@@ -33,6 +33,7 @@
 * [areEquallyStrong](https://github.com/muhamedkarajic/Algorithm/blob/master/areEquallyStrong.cpp)
 * [arrayMaximalAdjacentDifference](https://github.com/muhamedkarajic/Algorithm/blob/master/arrayMaximalAdjacentDifference.cpp)
 * [isIPv4Address](https://github.com/muhamedkarajic/Algorithm/blob/master/isIPv4Address.cpp)
+* [avoidObstacles](https://github.com/muhamedkarajic/Algorithm/blob/master/avoidObstacles.cpp)
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
