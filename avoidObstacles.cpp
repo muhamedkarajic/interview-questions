@@ -40,8 +40,8 @@ bool crashReport(const std::vector<int> &inputArray, const int &base, const int 
 	return true;
 }
 
-int avoidObstacles(const std::vector<int> &inputArray) {
-
+int avoidObstacles(const std::vector<int> &inputArray) 
+{
 	const int len = inputArray.size() - 1;
 	const int max = maxNumber(inputArray);
 	int minimum = max + 1;
