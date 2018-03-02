@@ -46,7 +46,7 @@ int avoidObstacles(const std::vector<int> &inputArray) {
 	int minimum = max + 1;
 
 	for (int i = max; i > 1; i--)
-		if (crashReport(inputArray, i, max) == true && i<minimum)
+		if (crashReport(inputArray, i, max) == true)
 			minimum = i;
 
 	return minimum;
