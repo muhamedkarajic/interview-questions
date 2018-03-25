@@ -11,6 +11,7 @@
 * [fromBinaryToDecimalRecursion](https://github.com/muhamedkarajic/Algorithm/blob/master/fromBinaryToDecimalRecursion.cpp)
 * [greatestCommonDivisor](https://github.com/muhamedkarajic/Algorithm/blob/master/greatestCommonDivisor.cpp)
 * [wordCounter](https://github.com/muhamedkarajic/Algorithm/blob/master/wordCounter.cpp)
+* [squareMatrix](https://github.com/muhamedkarajic/Algorithm/blob/master/squareMatrix.cpp)
 ### Code Fights:
 * [add](https://github.com/muhamedkarajic/Algorithm/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Algorithm/blob/master/centuryFromYear.cpp)
