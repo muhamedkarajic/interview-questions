@@ -15,8 +15,8 @@
 
 ### Code Signal:
 1. [add](https://github.com/muhamedkarajic/Exercise/blob/master/add.cpp)
-* [centuryFromYear](https://github.com/muhamedkarajic/Exercise/blob/master/centuryFromYear.cpp)
-* [checkPalindrome](https://github.com/muhamedkarajic/Exercise/blob/master/checkPalindrome.cpp)
+2. [centuryFromYear](https://github.com/muhamedkarajic/Exercise/blob/master/centuryFromYear.cpp)
+3. [checkPalindrome](https://github.com/muhamedkarajic/Exercise/blob/master/checkPalindrome.cpp)
 * [adjacentElementsProduct](https://github.com/muhamedkarajic/Exercise/blob/master/adjacentElementsProduct.cpp)
 * [shapeArea](https://github.com/muhamedkarajic/Exercise/blob/master/shapeArea.cpp)
 * [makeArrayConsecutive2](https://github.com/muhamedkarajic/Exercise/blob/master/makeArrayConsecutive2.cpp)
