@@ -36,6 +36,7 @@
 * [arrayMaximalAdjacentDifference](https://github.com/muhamedkarajic/Exercise/blob/master/arrayMaximalAdjacentDifference.cpp)
 * [isIPv4Address](https://github.com/muhamedkarajic/Exercise/blob/master/isIPv4Address.cpp)
 * [avoidObstacles](https://github.com/muhamedkarajic/Exercise/blob/master/avoidObstacles.cpp)
+* [boxBlur](https://github.com/muhamedkarajic/Exercise/blob/master/boxBlur.cpp)
 
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
