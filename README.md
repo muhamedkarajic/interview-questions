@@ -38,6 +38,11 @@
 22. [avoidObstacles](https://github.com/muhamedkarajic/Exercise/blob/master/avoidObstacles.cpp)
 23. [boxBlur](https://github.com/muhamedkarajic/Exercise/blob/master/boxBlur.cpp)
 24. [minesweeper](https://github.com/muhamedkarajic/Exercise/blob/master/minesweeper.cpp)
+25. [arrayReplace](https://github.com/muhamedkarajic/Exercise/blob/master/arrayReplace.cpp)
+26. [evenDigitsOnly](https://github.com/muhamedkarajic/Exercise/blob/master/evenDigitsOnly.cpp)
+27. [variableName](https://github.com/muhamedkarajic/Exercise/blob/master/variableName.cpp)
+28. [alphabeticShift](https://github.com/muhamedkarajic/Exercise/blob/master/alphabeticShift.cpp)
+29. [chessBoardCellColor](https://github.com/muhamedkarajic/Exercise/blob/master/chessBoardCellColor.cpp)
 
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
