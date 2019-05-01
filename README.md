@@ -13,7 +13,7 @@
 * [wordCounter](https://github.com/muhamedkarajic/Exercise/blob/master/wordCounter.cpp)
 * [squareMatrix](https://github.com/muhamedkarajic/Exercise/blob/master/squareMatrix.cpp)
 
-### Code Fights:
+### Code Signal:
 * [add](https://github.com/muhamedkarajic/Exercise/blob/master/add.cpp)
 * [centuryFromYear](https://github.com/muhamedkarajic/Exercise/blob/master/centuryFromYear.cpp)
 * [checkPalindrome](https://github.com/muhamedkarajic/Exercise/blob/master/checkPalindrome.cpp)
