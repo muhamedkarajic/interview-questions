@@ -37,6 +37,9 @@
 * [isIPv4Address](https://github.com/muhamedkarajic/Exercise/blob/master/isIPv4Address.cpp)
 * [avoidObstacles](https://github.com/muhamedkarajic/Exercise/blob/master/avoidObstacles.cpp)
 
+### Other:
+* [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
+
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
 - [LinkedIn](https://www.linkedin.com/in/muhamedkarajic/)
