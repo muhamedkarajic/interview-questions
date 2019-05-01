@@ -37,6 +37,7 @@
 * [isIPv4Address](https://github.com/muhamedkarajic/Exercise/blob/master/isIPv4Address.cpp)
 * [avoidObstacles](https://github.com/muhamedkarajic/Exercise/blob/master/avoidObstacles.cpp)
 * [boxBlur](https://github.com/muhamedkarajic/Exercise/blob/master/boxBlur.cpp)
+* [minesweeper](https://github.com/muhamedkarajic/Exercise/blob/master/minesweeper.cpp)
 
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
