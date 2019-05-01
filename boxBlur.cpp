@@ -42,7 +42,6 @@ using namespace std;
 std::vector<std::vector<int>> boxBlur(std::vector<std::vector<int>> image) {
 	double sum = 0;
 	std::vector<std::vector<int>> temp;
-	int last = -1;
 	for (int i = 0; i < image.size() && i + 3 <= image.size(); i++)
 	{
 		temp.push_back(vector<int>());
