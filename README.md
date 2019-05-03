@@ -46,6 +46,8 @@
 
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
+* [stringPermutations](https://github.com/muhamedkarajic/Exercise/blob/master/stringPermutations.cpp)
+* [arrayPermutations](https://github.com/muhamedkarajic/Exercise/blob/master/arrayPermutations.cpp)
 
 ##### Social Media:
 - [Facebook](https://facebook.com/muhamedkarajic/)
