@@ -46,6 +46,7 @@
 
 ### Code Signal - Interview Practice:
 * [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
+* [firstNotRepeatingCharacter](https://github.com/muhamedkarajic/Exercise/blob/master/firstNotRepeatingCharacter.cpp)
 
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
