@@ -44,6 +44,9 @@
 28. [alphabeticShift](https://github.com/muhamedkarajic/Exercise/blob/master/alphabeticShift.cpp)
 29. [chessBoardCellColor](https://github.com/muhamedkarajic/Exercise/blob/master/chessBoardCellColor.cpp)
 
+### Code Signal - Interview Practice:
+* [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
+
 ### Other:
 * [intervalMap](https://github.com/muhamedkarajic/Exercise/blob/master/intervalMap.cpp)
 * [stringPermutations](https://github.com/muhamedkarajic/Exercise/blob/master/stringPermutations.cpp)
