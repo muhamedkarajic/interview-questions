@@ -122,6 +122,7 @@ bool recreateHighestTime(int arr[], int n, Time &t)
 		for (int i = 0; i < 10; i++)
 			 arr[i] = temp[i];
 	}
+	t.Print();
 	return false;
 }
 
