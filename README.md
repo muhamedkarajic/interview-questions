@@ -12,6 +12,7 @@
 * [greatestCommonDivisor](https://github.com/muhamedkarajic/Exercise/blob/master/greatestCommonDivisor.cpp)
 * [wordCounter](https://github.com/muhamedkarajic/Exercise/blob/master/wordCounter.cpp)
 * [squareMatrix](https://github.com/muhamedkarajic/Exercise/blob/master/squareMatrix.cpp)
+* [recreateHighestTime](https://github.com/muhamedkarajic/Exercise/blob/master/recreateHighestTime.cpp)
 
 ### Code Signal:
 1. [add](https://github.com/muhamedkarajic/Exercise/blob/master/add.cpp)
