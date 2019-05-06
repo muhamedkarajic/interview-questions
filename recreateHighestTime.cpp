@@ -63,7 +63,7 @@ public:
 	}
 };
 
-bool createTime(int arr[], int n, Time &t)
+bool recreateHighestTime(int arr[], int n, Time &t)
 {
 	int temp[10] = { 0 };
 	for (int i = 0; i < 10; i++)
