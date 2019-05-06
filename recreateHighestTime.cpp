@@ -4,7 +4,6 @@ where 23:59:59 is the higest and 00:00:00 is the lowest.
 The output of the time should be hh:mm:ss.
 */
 
-
 #include <iostream>
 using namespace std;
 
@@ -57,6 +56,7 @@ public:
 	{
 		return t.hours == hours && t.minutes == minutes && t.seconds == seconds;
 	}
+
 	bool operator!=(Time t) const
 	{
 		return !(t == *this);
@@ -68,9 +68,11 @@ bool recreateHighestTime(int arr[], int n, Time &t)
 	int temp[10] = { 0 };
 	for (int i = 0; i < 10; i++)
 		temp[i] = arr[i];
+
 	Time x(0, 0, 0);
 	int c;
 	bool test = false;
+
 	while (t != x)
 	{
 		test = false;
