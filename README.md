@@ -44,6 +44,12 @@
 27. [variableName](https://github.com/muhamedkarajic/Exercise/blob/master/variableName.cpp)
 28. [alphabeticShift](https://github.com/muhamedkarajic/Exercise/blob/master/alphabeticShift.cpp)
 29. [chessBoardCellColor](https://github.com/muhamedkarajic/Exercise/blob/master/chessBoardCellColor.cpp)
+30. [circleOfNumbers](https://github.com/muhamedkarajic/Exercise/blob/master/circleOfNumbers.cpp)
+31. [depositProfit](https://github.com/muhamedkarajic/Exercise/blob/master/depositProfit.cpp)
+32. [absoluteValuesSumMinimization](https://github.com/muhamedkarajic/Exercise/blob/master/absoluteValuesSumMinimization.cpp)
+33. [stringsRearrangement](https://github.com/muhamedkarajic/Exercise/blob/master/stringsRearrangement.cpp)
+
+
 
 ### Code Signal - Interview Practice:
 * [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
