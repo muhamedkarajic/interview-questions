@@ -51,7 +51,7 @@ bool testArray(std::vector<std::string> inputArray)
 }
 
 bool test = false;
-void permute(std::vector<std::string> inputArray, int start)
+void permute(std::vector<std::string> inputArray, int start = 0)
 {
 	if (start == inputArray.size() && testArray(inputArray))
 		test = true;
@@ -65,6 +65,6 @@ void permute(std::vector<std::string> inputArray, int start)
 }
 
 bool stringsRearrangement(std::vector<std::string> inputArray) {
-    permute(inputArray, 0);
+    permute(inputArray);
     return test;
 }
