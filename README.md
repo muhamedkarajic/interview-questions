@@ -48,8 +48,7 @@
 31. [depositProfit](https://github.com/muhamedkarajic/Exercise/blob/master/depositProfit.cpp)
 32. [absoluteValuesSumMinimization](https://github.com/muhamedkarajic/Exercise/blob/master/absoluteValuesSumMinimization.cpp)
 33. [stringsRearrangement](https://github.com/muhamedkarajic/Exercise/blob/master/stringsRearrangement.cpp)
-
-
+34. [extractEachKth](https://github.com/muhamedkarajic/Exercise/blob/master/extractEachKth.cpp)
 
 ### Code Signal - Interview Practice:
 * [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
