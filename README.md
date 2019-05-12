@@ -14,7 +14,7 @@
 * [squareMatrix](https://github.com/muhamedkarajic/Exercise/blob/master/squareMatrix.cpp)
 * [recreateHighestTime](https://github.com/muhamedkarajic/Exercise/blob/master/recreateHighestTime.cpp)
 
-### Code Signal:
+### Code Signal - Intro:
 1. [add](https://github.com/muhamedkarajic/Exercise/blob/master/add.cpp)
 2. [centuryFromYear](https://github.com/muhamedkarajic/Exercise/blob/master/centuryFromYear.cpp)
 3. [checkPalindrome](https://github.com/muhamedkarajic/Exercise/blob/master/checkPalindrome.cpp)
