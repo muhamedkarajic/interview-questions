@@ -60,6 +60,7 @@
 * [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
 * [firstNotRepeatingCharacter](https://github.com/muhamedkarajic/Exercise/blob/master/firstNotRepeatingCharacter.cpp)
 * [rotateImage](https://github.com/muhamedkarajic/Exercise/blob/master/rotateImage.cpp)
+* [sudoku2](https://github.com/muhamedkarajic/Exercise/blob/master/sudoku2.cpp)
 
 ### Code Signal - Practice Tests:
 * [countTinyPairs](https://github.com/muhamedkarajic/Exercise/blob/master/countTinyPairs.cpp)
