@@ -49,6 +49,12 @@
 32. [absoluteValuesSumMinimization](https://github.com/muhamedkarajic/Exercise/blob/master/absoluteValuesSumMinimization.cpp)
 33. [stringsRearrangement](https://github.com/muhamedkarajic/Exercise/blob/master/stringsRearrangement.cpp)
 34. [extractEachKth](https://github.com/muhamedkarajic/Exercise/blob/master/extractEachKth.cpp)
+35. [firstDigit](https://github.com/muhamedkarajic/Exercise/blob/master/firstDigit.cpp)
+36. [differentSymbolsNaive](https://github.com/muhamedkarajic/Exercise/blob/master/differentSymbolsNaive.cpp)
+37. [arrayMaxConsecutiveSum](https://github.com/muhamedkarajic/Exercise/blob/master/arrayMaxConsecutiveSum.cpp)
+38. [growingPlant](https://github.com/muhamedkarajic/Exercise/blob/master/growingPlant.cpp)
+39. [knapsackLight](https://github.com/muhamedkarajic/Exercise/blob/master/knapsackLight.cpp)
+40. [longestDigitsPrefix](https://github.com/muhamedkarajic/Exercise/blob/master/longestDigitsPrefix.cpp)
 
 ### Code Signal - Interview Practice:
 * [firstDuplicate](https://github.com/muhamedkarajic/Exercise/blob/master/firstDuplicate.cpp)
