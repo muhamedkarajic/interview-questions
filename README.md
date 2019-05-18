@@ -55,7 +55,7 @@
 * [firstNotRepeatingCharacter](https://github.com/muhamedkarajic/Exercise/blob/master/firstNotRepeatingCharacter.cpp)
 * [rotateImage](https://github.com/muhamedkarajic/Exercise/blob/master/rotateImage.cpp)
 
-### Code Signal - Practice tests:
+### Code Signal - Practice Tests:
 * [countTinyPairs](https://github.com/muhamedkarajic/Exercise/blob/master/countTinyPairs.cpp)
 * [meanGroups](https://github.com/muhamedkarajic/Exercise/blob/master/meanGroups.cpp)
 * [concatenationsSum](https://github.com/muhamedkarajic/Exercise/blob/master/concatenationsSum.cpp)
