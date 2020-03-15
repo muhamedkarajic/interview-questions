@@ -1,4 +1,4 @@
-# Exercises
+# Interview practice
 
 ### University:
 * [separateNumbers](https://github.com/muhamedkarajic/Exercise/blob/master/separateNumbers.py)
